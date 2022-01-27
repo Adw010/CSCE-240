@@ -1,0 +1,2 @@
+The result of divideing 1 and 0 is below.
+inf
