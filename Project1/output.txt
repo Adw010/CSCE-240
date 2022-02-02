@@ -1,0 +1,4 @@
+The result of the file is below.
+line count = 44
+characters num = 1708
+words number = 301
