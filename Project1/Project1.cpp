@@ -6,7 +6,7 @@ using namespace std;
 
 int main()
 {
-	string district, words, str, lines;
+	string district, words, str, newLine;
 	int wordnum = 0;
 	int char_count = 0;
 	int line_count = 0;
