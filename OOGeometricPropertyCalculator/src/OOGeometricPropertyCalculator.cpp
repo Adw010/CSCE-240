@@ -58,7 +58,7 @@ int main()
 
         if (newLine == "rectangle")
         {
-            area = rect.getArea(2, 1);
+            area = rect.getArea(line2, line3);
             outputFile << "The area is " << area << endl;
         }
         else if (newLine == "triangle")
