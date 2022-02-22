@@ -62,6 +62,7 @@ int main()
 	std::cout << "If you do not enter as shown, it will break." << endl;
 	cin >> searching;
 	std::cout << " " << endl;
+	std::ofstream outFile{"../../prog2-processor/Doc/test_output.txt"};
 
 	std::cout << "Would you like to print an entire type (enter 1 for this option) or a specific category of a type? (enter 2 for this option)"
 		 << endl;
@@ -133,6 +134,7 @@ int main()
 								else
 								{
 									std::cout << newLine << endl;
+									outFile << newLine << endl;
 									holder = newLine;
 								}
 							}
@@ -158,6 +160,7 @@ int main()
 								else
 								{
 									std::cout << newLine << endl;
+									outFile << newLine << endl;
 									holder = newLine;
 								}
 							}
@@ -183,14 +186,13 @@ int main()
 								else
 								{
 									std::cout << newLine << endl;
+									outFile << newLine << endl;
 									holder = newLine;
 								}
 							}
 						}
 						else if (searching == option4)
 						{
-							std::cout << "comes in here " << votingCount << endl;
-							std::cout << "comes in here " << words << endl;
 							line_count++;
 							if (error != true)
 							{
@@ -210,6 +212,7 @@ int main()
 								else
 								{
 									std::cout << newLine << endl;
+									outFile << newLine << endl;
 									holder = newLine;
 								}
 							}
@@ -235,6 +238,7 @@ int main()
 								else
 								{
 									std::cout << newLine << endl;
+									outFile << newLine << endl;
 									holder = newLine;
 								}
 							}
@@ -255,6 +259,7 @@ int main()
 								else
 								{
 									std::cout << newLine << endl;
+									outFile << newLine << endl;
 									holder = newLine;
 								}
 							}
@@ -268,6 +273,10 @@ int main()
 			}
 		}
 		inFile.close();
+		outFile.close();
+		
+
+
 	}
 	if (type == 2)
 	{
