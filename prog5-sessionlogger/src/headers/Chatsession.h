@@ -16,13 +16,17 @@ public:
 	void timeStart();
 	void timeEnd(std::string file);
     void counter(std::string file);
+	void summary();
+	void printer(std::string file);
 	virtual ~Chatsession();
 
 	std::chrono::_V2::steady_clock::time_point start = std::chrono::steady_clock::now();
     std::string path;
     std::string str;
 	std::string newLine;
+	std::string holder;
 	std::string words;
+	std::string checking;
     int inputnum = 0;
 	int outputnum= 0;
 	int inputnumto = 0;

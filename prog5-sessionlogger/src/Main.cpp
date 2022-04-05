@@ -94,7 +94,12 @@ int main()
 	message = cpumessage + message;
 	r.noteOutput(message, str);
 
-	message = "Please tell me which option you would like. You may say free form or conversation.";
+	message = "Option three is to check the summary of the csv. Note, we will not save this to the csv or text file.";
+	std::cout << message << endl;
+	message = cpumessage + message;
+	r.noteOutput(message, str);
+
+	message = "Please tell me which option you would like. You may say summary, free form or conversation.";
 	std::cout << message << endl;
 	message = cpumessage + message;
 	r.noteOutput(message, str);
@@ -107,6 +112,14 @@ int main()
 	{
 		Freeform j;
 		j.question(str);
+	}
+	else if (selection == "summary" || selection == "sum")
+	{
+		message = "Session ending. Going to CSV chacking.";
+		cout << message << endl;
+		message = cpumessage + message;
+		r.noteOutput(message, str);
+		r.summary();
 	}
 	else if (selection == "conversation")
 	{
