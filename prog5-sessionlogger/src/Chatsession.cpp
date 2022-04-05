@@ -223,7 +223,7 @@ void Chatsession::printer(string inputfile)
                     }
                 }
             }
-        }
+        }inFile.close();
     }
-    inFile.close();
+    
 }
