@@ -120,6 +120,7 @@ void Chatsession ::summary()
         }
         cout << "\n";
     }
+    file.close();
     inputnum--;
     cout << "Number of lines is: " << inputnum << endl;
     cout << "Would you like to showchat, showchat summary or end? Press 1, 2 or 3" << endl;
@@ -224,4 +225,5 @@ void Chatsession::printer(string inputfile)
             }
         }
     }
+    inFile.close();
 }
