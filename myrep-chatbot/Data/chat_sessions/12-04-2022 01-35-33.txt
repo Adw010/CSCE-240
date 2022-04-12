@@ -1,0 +1,32 @@
+CPU : Hello there. My name is ChatBot. How are you?
+
+User : bad
+
+CPU : I am sorry to hear that. I hope it gets better.
+
+CPU : If you want to know about the District 77 rep, you have two options.
+
+CPU : Option one is to be able to ask a limited number of free formed questions based on known data.
+
+CPU : Option two is to be able to have a conversation with me as I guide you through the experience.
+
+CPU : Option three is to check the summary of the csv. Note, we will not save this to the csv or text file.
+
+CPU : Please tell me which option you would like. You may say summary, free form or conversation.
+
+User : free form
+
+CPU : Please ask a question and I can tell you where to find the answer.
+
+CPU : When you recieve the location of where your search is, the discriptive will provide the details.
+
+User : what district do you support]
+
+We support district 59 for Rep Alexander Terry.
+
+CPU : Now that you have your information, I will send you back if you want to start with the descriptive chats
+
+CPU : Please enter more to reset free form or new for the descriptive form
+
+User : q
+

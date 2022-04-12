@@ -1,0 +1,20 @@
+CPU : Hello there. My name is ChatBot. How are you?
+
+User : kjg
+
+CPU : Not 100% sure what that means but I hope it means you're having a great day! If not, I hope to make it better!
+
+CPU : If you want to know about the District 77 rep, you have two options.
+
+CPU : Option one is to be able to ask a limited number of free formed questions based on known data.
+
+CPU : Option two is to be able to have a conversation with me as I guide you through the experience.
+
+CPU : Option three is to check the summary of the csv. Note, we will not save this to the csv or text file.
+
+CPU : Please tell me which option you would like. You may say summary, free form or conversation.
+
+User : summary
+
+CPU : Session ending. Going to CSV chacking.
+

@@ -1,0 +1,97 @@
+CPU : Hello there. My name is ChatBot. How are you?
+
+User : wonderful
+
+CPU : That is wonderful to hear! I am an AI so I cannot feel that but it sounds wonderful.
+
+CPU : If you want to know about the District 77 rep, you have two options.
+
+CPU : Option one is to be able to ask a limited number of free formed questions based on known data.
+
+CPU : Option two is to be able to have a conversation with me as I guide you through the experience.
+
+CPU : Option three is to check the summary of the csv. Note, we will not save this to the csv or text file.
+
+CPU : Please tell me which option you would like. You may say summary, free form or conversation.
+
+User : free form
+
+CPU : Please ask a question and I can tell you where to find the answer.
+
+CPU : When you recieve the location of where your search is, the discriptive will provide the details.
+
+User : tell everything
+
+CPU : For theeverything thing, you can select the print whole document option after going to Distinguishing.
+
+CPU : Please provide the district number. 
+
+User : 59
+
+CPU : '1/31/22, 5:26 PM                                                              
+South Carolina Legislature Online - Member Biography
+Representative Terry Alexander
+Democrat - Florence
+District 59 - Darlington & Florence Counties - Map
+Columbia Address
+314C Blatt Bldg.
+Columbia 29201                                                         
+Home Address                                                            
+1646 Harris Court
+Florence 29501                                                                
+Business Phone (803) 734-3004                                                 
+Home Phone (843) 665-7321                                                                              
+Send message to Representative Alexander
+Committee Assignments
+Education and Public Works, 2nd V.C.
+Regulations and Admin. Procedures
+Sponsored Bills in the House
+Primary Sponsor:     Yes                                                      
+No
+Search Session:                                                               
+2021-2022 (124)                                        
+Find Bills
+Voting Record
+Search Session:                                        
+2021-2022 (124)                                       
+Find Votes
+Service In Public Office
+House of Representatives, 2007 - Present
+Florence County Council, 1990-06, District Number 3                                            
+Personal Information										
+Education Consultant & Pastor                                                 
+Residing at 1646 Harris Court, Florence                                       
+Born January 23, 1955 in Florence
+Son of the late James and Adell Alexander                                     
+Durham Business College, A.D., 1976
+Francis Marion University, B.A., 1991
+Howard University School of Divinity, M. Div., 1998
+Married to Starlee Davis Alexander, 2 children, Terrell McClain and Matthew
+Pastor, Wayside Chapel Baptist Church
+Career Development Consultant
+Adjunct Professor of Religion, Limestone College
+Pee Dee Regional Council of Governments                                                                                              
+Past President, Habitat for Humanity, Board of Directors                                                                             
+Charter member, The Florence Breakfast Rotary Club                                                                                   
+Past President, Boys and Girls Club of Florence
+Boy Scouts of the Pee Dee Executive Boards
+Florence Branch, NAACP, past President
+Mercy Medicine Board
+Pee Dee Chapter American Red Cross
+100 Black Men of the Pee Dee
+Kappa Alpha Psi Fraternity, Inc.
+Francis Marion Society
+National Association of County Officials
+National Association of Black County Officials
+South Carolina Association of Black County Officials
+South Carolina Association of Guidance Counselors
+South Carolina Alliance of Black Educators
+Legislative Services Agency
+h t t p : / / w w w . s c s t a t e h o u s e . g o v
+https://www.scstatehouse.gov/member.php?code=0011363635                       1/1
+'
+
+CPU : Action complete. Do you want to exit? Otherwise, I will send you to the main screen.
+
+User : q
+

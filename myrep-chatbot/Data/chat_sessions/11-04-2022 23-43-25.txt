@@ -1,0 +1,86 @@
+CPU : Hello there. My name is ChatBot. How are you?
+
+User : greater
+
+CPU : Not 100% sure what that means but I hope it means you're having a great day! If not, I hope to make it better!
+
+CPU : If you want to know about the District 77 rep, you have two options.
+
+CPU : Option one is to be able to ask a limited number of free formed questions based on known data.
+
+CPU : Option two is to be able to have a conversation with me as I guide you through the experience.
+
+CPU : Option three is to check the summary of the csv. Note, we will not save this to the csv or text file.
+
+CPU : Please tell me which option you would like. You may say summary, free form or conversation.
+
+User : free form
+
+CPU : Please ask a question and I can tell you where to find the answer.
+
+CPU : When you recieve the location of where your search is, the discriptive will provide the details.
+
+User : 5
+
+CPU : Sorry that question yields no results. Please ask another or quit.
+
+User : what is name
+
+CPU : For name information, you should go look at Contact information, by parts or whole.
+
+CPU : Now that you have your information, I will send you back if you want to start with the descriptive chats
+
+CPU : Please enter more to reset free form or new for the descriptive form
+
+User : new
+
+CPU : Hello, would you like to start looking at the data? Yes to continue.
+
+CPU : Throughout this process, you can say quit to stop.
+
+User : yes
+
+CPU : OK, we will continue.
+
+CPU : Would you like to look at the whole document or just a part?
+
+User : part
+
+Would you like to see Contact, Committee, Service, Voting, Sponsored or Personal?
+
+You can also say nvm or Nevermind to go back to start.
+
+User : ConTact
+
+CPU : You chose Contact.
+
+CPU : Would you like to print the whole contact section or are you looking for something in particular?
+
+CPU : You can say whole or part.
+
+User : whole
+
+CPU : Please provide the district number. 
+
+User : 59
+
+CPU : '1/31/22, 5:26 PM                                                              
+South Carolina Legislature Online - Member Biography
+Representative Terry Alexander
+Democrat - Florence
+District 59 - Darlington & Florence Counties - Map
+Columbia Address
+314C Blatt Bldg.
+Columbia 29201                                                         
+Home Address                                                            
+1646 Harris Court
+Florence 29501                                                                
+Business Phone (803) 734-3004                                                 
+Home Phone (843) 665-7321                                                                              
+Send message to Representative Alexander
+'
+
+CPU : Action complete. Do you want to exit? Otherwise, I will send you to the main screen.
+
+User : q
+
